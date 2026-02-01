@@ -21,3 +21,7 @@ pnpm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Image Assets
+
+These images are CC0 licensed and free to use. Attribution is appreciated but not required.
